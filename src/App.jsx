@@ -1,7 +1,13 @@
 import "./App.css";
+import CardTrilha from "./components/CardTrilha";
 
 function App() {
-  return <> <h1>Hello</h1></>;
+  return(
+
+      <CardTrilha />
+
+
+  )
 }
 
 export default App;
